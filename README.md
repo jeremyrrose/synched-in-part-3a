@@ -236,3 +236,7 @@ export default function Header (props) {
 ## BONUS: Undo bad UI practices
 
 The badge on each card really should be a button. Refactor `Person.jsx` to use the `Button` component instead of `Badge`, and style it how you like.
+
+## MEGABONUS: Tackle step 4
+
+[SynchedIn Step 4](https://github.com/jeremyrrose/synched-in-part4)
